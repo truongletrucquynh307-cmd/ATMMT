@@ -26,12 +26,3 @@ Hệ thống được thiết kế theo mô hình phân vùng mạng gồm ba kh
 * Hệ thống đã triển khai thành công mô hình bẫy hacker.
 * Các hoạt động tấn công như quét cổng, thử đăng nhập SSH (brute-force) và thực thi lệnh đều được ghi nhận chi tiết trong file log của Cowrie.
 * Mô hình thực nghiệm đã đáp ứng đúng mục tiêu đề ra ban đầu.
-
-## Thông tin nhóm thực hiện
-* **Nhóm:** Nhóm 5 - Lớp: 14DHBM02
-* **Thành viên:**
-    * Đào Thị Khánh Chi - 2033230035
-    * Lê Ngọc Phương Quỳnh - 2033230247
-    * Trương Lê Trúc Quỳnh – 2033230246
-    * Tống Lạc Lan Viên - 2033230322
-* **Giảng viên hướng dẫn:** Đinh Huy Hoàng
